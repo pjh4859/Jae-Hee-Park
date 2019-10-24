@@ -1,2 +1,2 @@
 # Jae-Hee Park.
-# This is test branch fo mine.
+# This is test branch of mine.
